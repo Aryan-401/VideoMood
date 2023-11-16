@@ -4,3 +4,4 @@ streamlit
 transformers
 pytube
 torch
+ffmpeg-python
